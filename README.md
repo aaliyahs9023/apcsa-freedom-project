@@ -1,8 +1,8 @@
 # APCSA Freedom Project
-by Your Name Here
+by Aaliyah Sealey
 
 ## Context
-Text
+This is my senior year at High School of Telecommunications.In the class APCSA we've been learning about Java.This will be my blog which will help me track my progressin the Freedom Project in which we can use Java but it's not required.
 
 ## Content
 Text
