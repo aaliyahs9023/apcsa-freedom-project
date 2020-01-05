@@ -1,3 +1,5 @@
+
+
 # Entry 3
 ##### 1/4/2020
 
@@ -7,7 +9,6 @@
 
 <p> In my previous blog entry I stated that my role in the project would be to learn and utilize firebase but we realized as a group that that wouldn't be included in our MVP(minimum viable product).
 We have decided to keep it simple for now and if we have extra time to add in firebase to our project.
-As of right now we know that we will need CSS for the overall look of the app.
 I have begun to research other apps and their overall outlook.
 This will help us to see what aesthetic we're going for and depending on the reviews on the app it will help us get an idea on what consumers like.
 The website that I had found was actually extremely useful as  <a href="https://www.androidauthority.com/best-reminder-apps-for-android-654628/">it was strictly regarding android apps</a>.
@@ -26,7 +27,7 @@ The problem we had is that as we actually started to connect firebase to github 
 We didn't need to do research to realize that we didn't need firebase for our app to work.
 Essentially firebase would help us store the information of multiple users by providing the backend/database of our app.
 While it'd be great to integrate firebase into our app our main focus as of right now is making sure that our app works.
-On Friday on of our groupmates began to sketch out an idea of how we want the app to look like such as where each function goes and what that function will do.
+On Friday one of our groupmates began to sketch out an idea of how we want the app to look like such as where each function goes and what that function will do.
 We as a group will continue to build upon this prototype while also working on psuedocode.
 </p>
 
@@ -49,16 +50,26 @@ This in return will help us out in the future if we actually integrate firebase 
 
 
 
+
 <h3>How are you developing in ways that apply outside of your project?</h3>
 
 <!--Reflects on at least two skills developed since the previous entry.-->
 <!--Must state “skill/skills.”-->
 
 <p>
-
-
+Personally this time around I believe that taking things into consideration after our last Freedom Friday has improved.
+At first I was thinking about how we wanted everything to come out and not actually taking in to consideration how these things are going to get done.
+Through the communicating of our group we have been able to backtrack and take into consideration what we can actually get done as of right now.
+We understand that we might not be able to get firebase done right now but we do know how to do html and java.
+It's important to actually take your skills into consideration for when creating a project because although you can still LOYO (learn on your own) it makes sense to start off with the basics.
+Furthermore another skill I've built upon would be our growth mindset as a group.
+I say as a group our  growth mindset has improved since my previous entry because even when we get confused about something we continue to perservere and ask eachother questions.
 </p>
+
+
 
 [Previous](entry02.md) | [Next](entry04.md)
 
 [Home](../README.md)
+
+
