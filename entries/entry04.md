@@ -19,8 +19,8 @@ The default was blue but honestly when we think blue we don't think medicine so 
 We had used <a href="https://coolors.co/">a website</a>  which showed us a wide variety of red until we finally landed on the two reds we wanted for the border and inside of the button.
 
 </p>
-![button](/images/button.png) <br>
-![comments](/images/comments.png)
+![button](./images/button.png) <br>
+![comments](./images/comments.png)
 
 <h3>Where are you at in the process of your product? </h3>
 
