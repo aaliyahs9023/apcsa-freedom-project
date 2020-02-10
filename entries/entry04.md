@@ -61,7 +61,11 @@ It helps us keep track of what we have done and what actually needs to be done.
 <!--Must state “skill/skills.”-->
 
 <p>
-
+Since my previous entry I can say that as a group we've improved our ability to google and research things better.
+Android studio is basically unexplored territory so it's important that we actually do our own research and LOYO.
+Through this we were able to find large chunks of code that we actually need to make our MVP come true.
+Furthermore another skill we've been improving on is paying attention to detail.
+ALthough that's not entirely important to reach our MVP we still need to make sure that our app looks professonial and nice overall.
 </p>
 
 
