@@ -3,8 +3,6 @@
 
 
 
-# Entry 3
-##### 1/4/2020
 
 <h3>What are you using to learn?</h3>
 <!--Uses (and links to) multiple sources effectively, where applicable.-->
@@ -19,6 +17,7 @@ The default was blue but honestly when we think blue we don't think medicine so 
 We had used <a href="https://coolors.co/">a website</a>  which showed us a wide variety of red until we finally landed on the two reds we wanted for the border and inside of the button.
 
 </p>
+
 ![button](../images/button.png) <br>
 ![comments](../images/comments.png)
 
@@ -45,7 +44,9 @@ Displays knowledge gained that applies to this entry, where applicable.-->
 <p>
 In class it's been emphasized how important it is to take notes because we won't remember everything.
 I feel like this is especially true for me because I frequently forget what I learn even when it's recent.
-
+This has helped me realize how important it is to actually keep track of our successes and what we do on a weekly basis.
+While it's not always all of us that write down the notes its helpful when one of our groupmates writes down our progress.
+It helps us keep track of what we have done and what actually needs to be done.
 
 
 
